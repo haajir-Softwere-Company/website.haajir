@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋,we are haajir-softwere-company</h1>
-![Cover Image](https://link_to_your_image.jpg)
+[Cover Image](https://link_to_your_image.jpg)
 
 <h3 align="center">A passionate frontend/backend/UlandUx developer from somali state</h3>
 
