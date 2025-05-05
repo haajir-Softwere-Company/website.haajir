@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋,we are haajir-softwere-company</h1>
-<img src"https://www.lummi.ai/photo/conference-room-meeting-imw1u">
+![Cover Image](https://link_to_your_image.jpg)
+
 <h3 align="center">A passionate frontend/backend/UlandUx developer from somali state</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haajir-softwere-company&label=Profile%20views&color=0e75b6&style=flat" alt="haajir-softwere-company" /> </p>
