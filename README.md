@@ -1,4 +1,4 @@
-https://imgur.com/cvIJzoy
+<img src"https://imgur.com/a/rvGiIDb">
 <h1 align="center">Hi 👋,we are haajir-softwere-company</h1>
 <h3 align="center">A passionate frontend/backend/UlandUx developer from somali state</h3>
 
