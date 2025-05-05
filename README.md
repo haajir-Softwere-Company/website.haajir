@@ -1,7 +1,5 @@
+<img src="/home/moha/Downloads/logo/cover.png" alt="Project Logo">
 
-<nav>
-   <img src"/home/moha/Downloads/logo/cover.png"></img>
-</nav>
 
 <h1 align="center">Hi 👋,we are haajir-softwere-company</h1>
 <h3 align="center">A passionate frontend/backend/UlandUx developer from somali state</h3>
