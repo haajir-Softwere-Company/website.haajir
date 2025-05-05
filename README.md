@@ -1,6 +1,4 @@
-[<img src="/home/moha/Downloads/logo/cover.png" alt="Project Logo">
-](https://imgur.com/a/rvGiIDb)
-
+https://imgur.com/cvIJzoy
 <h1 align="center">Hi 👋,we are haajir-softwere-company</h1>
 <h3 align="center">A passionate frontend/backend/UlandUx developer from somali state</h3>
 
