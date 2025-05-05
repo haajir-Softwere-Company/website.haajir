@@ -1,5 +1,6 @@
-<img src"https://imgur.com/a/rvGiIDb">
+
 <h1 align="center">Hi 👋,we are haajir-softwere-company</h1>
+<img src"https://postimg.cc/y3TR75z8">
 <h3 align="center">A passionate frontend/backend/UlandUx developer from somali state</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haajir-softwere-company&label=Profile%20views&color=0e75b6&style=flat" alt="haajir-softwere-company" /> </p>
