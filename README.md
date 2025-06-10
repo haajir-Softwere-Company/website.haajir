@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋,we are haajir-softwere-company</h1>![default](https://github.com/user-attachments/assets/53f7fc2c-7a7c-46ae-9e0e-282b3b0a6781)
+<h1 align="center">Hi 👋,we are salt-company project
+</h1>![default](https://github.com/user-attachments/assets/53f7fc2c-7a7c-46ae-9e0e-282b3b0a6781)
 
 <h3 align="center">A passionate frontend/backend/UlandUx developer from somali state</h3>
 
